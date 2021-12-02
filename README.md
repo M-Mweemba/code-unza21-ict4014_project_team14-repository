@@ -1,0 +1,2 @@
+# code-unza21-ict4014_project_team14-repository
+The Student Hub Online System is an online forum built basically for prospective students as a platform where their questions about institutions shall be aired and other discussion shall be made. Student Hub shall take advantage of the usefulness of an online forum in the university environment, to provide the best solution to various problems like selecting their careers, choosing their courses of study. 
