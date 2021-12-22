@@ -1,2 +1,12 @@
-# code-unza21-ict4014_project_team14-repository
-The Student Hub Online System is an online forum built basically for prospective students as a platform where their questions about institutions shall be aired and other discussion shall be made. Student Hub shall take advantage of the usefulness of an online forum in the university environment, to provide the best solution to various problems like selecting their careers, choosing their courses of study. 
+# CMS with PHP & Mysql
+
+
+### Installing process.
+Clone the repo from here-> 
+"git@github.com:hasan-py/CMS_with_PHP_Mysql.git"
+Move the folder to your XAMPP htdocs folder. Go to the browser and type localhost/cms
+
+![CMS](./cms.PNG)
+
+###### Author:Hasan-py
+###### Thanks.
